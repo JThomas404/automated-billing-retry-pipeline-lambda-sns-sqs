@@ -1,0 +1,8 @@
+
+{
+    "Records": [
+        {
+        "body": "Lambda function failed to reach international taxes API for 'boto3-billing-x-da014e82' bucket and file 'billing_data_meats_june_2025.csv'."
+        }
+    ]
+}
